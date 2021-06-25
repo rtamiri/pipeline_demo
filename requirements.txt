@@ -1,0 +1,13 @@
+certifi
+intel-openmp
+mkl
+numpy
+pandas
+pip
+py4j
+pyspark
+pytz
+setuptools
+six
+vc
+wheel
